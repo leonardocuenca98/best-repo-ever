@@ -1,3 +1,3 @@
 # best-repo-ever
 
-just adding it
+just adding it conflict 1
